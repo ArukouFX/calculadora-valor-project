@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+html * {
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+}
